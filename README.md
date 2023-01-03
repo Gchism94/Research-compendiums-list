@@ -10,6 +10,8 @@ Citation:
 
 ### Research Compendium: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6828919.svg)](https://doi.org/10.5281/zenodo.6828919) 
 
+### Binder Container: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gchism94/NestArchOrg/main?urlpath=rstudio)
+
 Citation:
 > Greg T. Chism. (2022). Gchism94/NestArchOrg: Research Compendium for DOI: https://doi.org/10.1101/2022.06.30.498314 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.6828919
 
@@ -29,6 +31,8 @@ Citation:
 
 ### Research Compendium: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6981601.svg)](https://doi.org/10.5281/zenodo.6981601)
 
+### Binder Container: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gchism94/HumidityProject/main?urlpath=rstudio)
+
 Citation:
 > Chism, Greg, Faron, Wiley, & Dornhaus, Anna. (2022). Gchism94/HumidityProject: Research Compendium for DOI: https://doi.org/10.1101/2022.06.30.497551 (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.6981601
 
@@ -42,6 +46,8 @@ Citation:
 ## Nest shape does not affect ant colony performance against a nest invader despite altered worker movement and communication
 
 ### Research Compendium (Pre-Release): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6872019.svg)](https://doi.org/10.5281/zenodo.6872019)
+
+### Binder Container: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gchism94/AntColonyPerformance/main?urlpath=rstudio)
 
 Citation: 
 > Greg T. Chism. (2022). Gchism94/AntColonyPerformance: (Pre-release) Research Compendium for In preparation work (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.6872019
